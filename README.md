@@ -9,7 +9,7 @@
   Passionate about building scalable backend services, full-stack AI applications, and end-to-end automation pipelines.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moazzam_Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moazzam-shaikh-a26307367)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moazzam_Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moazzamshaikh07)
 [![Email](https://img.shields.io/badge/Email-moazzamshaikh8982@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazzamshaikh8982@gmail.com)
 [![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moazzam-007)
 
